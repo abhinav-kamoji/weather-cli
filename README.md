@@ -1,2 +1,2 @@
-# weather-cli
-This is a Weather-ClI
+#WeatherClI
+This is a Weather ClI
