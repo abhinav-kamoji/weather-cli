@@ -9,5 +9,3 @@ pyfiglet = "*"
 simple-chalk = "*"
 
 pylint = "*"
-
-python_version = "3.12"
