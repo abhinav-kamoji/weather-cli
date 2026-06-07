@@ -1,2 +1,2 @@
 #WeatherClI
-This is a Weather ClI
+This is a Weather forcast app
