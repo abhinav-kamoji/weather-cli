@@ -12,6 +12,7 @@ setup(
         "inquirer",
     ],
 
+
       entry_points={
         "console_scripts": [
             "weather=weather_cli.main:app",
