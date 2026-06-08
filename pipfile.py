@@ -8,4 +8,4 @@ argparse = "*"
 pyfiglet = "*"
 simple-chalk = "*"
 
-pylint = "*"
+
